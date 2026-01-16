@@ -1,6 +1,6 @@
 # Mechanical Properties Prediction from Charge Density Images using CNN and MAGPIE Features
 
-A machine learning project that predicts five mechanical properties of materials from charge density images using Convolutional Neural Networks (CNN) combined with MAGPIE (Materials Agnostic General-Purpose Interface Energy) features.
+A machine learning project that predicts five mechanical properties of materials from charge density images using Convolutional Neural Networks (CNN) combined with MAGPIE features.
 
 ## Project Overview
 
