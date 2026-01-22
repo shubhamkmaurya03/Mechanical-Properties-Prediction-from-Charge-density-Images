@@ -30,8 +30,8 @@ The prediction combines:
 │   ├── Formation_Energy/
 │   ├── Shear_Modulus/
 │   └── Youngs_Modulus/
-│       ├── CNN/                            # Convolutional Neural Network models
-│       └── On_CNN/                         # Fusion models (CNN + MAGPIE features)
+│       ├── CNN/                            # Convolutional Neural Network with Attention
+│       └── On_CNN/                         # LightGBM Model
 ```
 
 ## Installation
